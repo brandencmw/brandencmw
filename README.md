@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center"> Hey there 👋 I'm Branden <h1>
+
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Page!&width=400&height=30">
+</p> 
+
+<h3>About Me</h3>
 
 <!--
 **brandencmw/brandencmw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
