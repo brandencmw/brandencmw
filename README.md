@@ -1,10 +1,9 @@
 <h1 align="center"> Hey there 👋 I'm Branden <h1>
 
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Page!&width=400&height=30">
-</p>
 
-
+<div align=center>
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+page!;Computer+Science+Student;Not-for-Profit Leader;Back-End+Engineer;Freelancer" alt="Headline" />
+</div>
 
 <p align="center">
       <a href="https://www.linkedin.com/in/brandenwheeler/" target="blank"><img align="center"
