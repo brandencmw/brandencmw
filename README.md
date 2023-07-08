@@ -22,9 +22,9 @@ I am a 4th year computer science student at Wilfrid Laurier University with a pa
 
 <h3>🌟 My current activity</h3>
 <ul>
-    <li>🍁 President at the **[Computing Councils of Canada](https://ccubed.dev)** </li>
-    <li>👨‍💻 Co-founder of Laurier's **[HawkHacks](https://hawkhacks.ca)** hackathon </li>
-    <li>🖥️ Former VP of Administration and Logistics at **[Laurier Computing Society](https://lauriercs.ca)**</li>
+    <li>🍁 President at the <strong><a href="https://ccubed.dev">Computing Councils of Canada</a></strong></li>
+    <li>👨‍💻 Co-founder of Laurier's <strong><a href="https://hawkhacks.ca">HawkHacks</a></strong></li>
+    <li>🖥️ Former VP of Administration and Logistics at <strong><a href="https://lauriercs.ca">Laurier Computing Society</a></strong></li>
 </ul>
 
 
