@@ -2,7 +2,7 @@
 
 
 <p align=center>
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+page!;Computer+Science+Student;Not-for-Profit Leader;Back-End+Engineer;Freelancer" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+page!;Computer+Science+Student;Not-for-Profit Leader;Back-End+Engineer;Freelancer" />
 </p>
 
 <p align="center">
@@ -19,6 +19,11 @@
 </br>
 <h3>About Me</h3>
 I am a 4th year computer science student at Wilfrid Laurier University with a passion for learning and leadership! I get myself very involved on and off campus to foster connections among students and help them to grow their skills. Ever since I wrote my first hello, world with the Turing language I have been obsessed with learning new tools, frameworks, and technologies!
+
+<h3>🌟 My current activity</h3>
+- 🍁 President at the **[Computing Councils of Canada](https://ccubed.dev)**
+- 👨‍💻 Co-founder of Laurier's **[HawkHacks](https://hawkhacks.ca)** hackathon
+- 🖥️ Former VP of Administration and Logistics at **[Laurier Computing Society](https://lauriercs.ca)**
 
 <!--
 **brandencmw/brandencmw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
